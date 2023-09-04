@@ -7,9 +7,9 @@
  📫 How to reach me mutarem@gmail.com<br/>
 
 A little about me:<br/>
-Self-Taught Programmer<br/>
-Based in Pretoria South Africa<br/>
-Loves Soduku & Rubik Cube Puzzles<br/>
+👨🏾‍💻 Self-Taught Programmer<br/>
+🇿🇦 Based in Pretoria South Africa<br/>
+🧩 Loves Soduku & Rubik Cube Puzzles<br/>
 
-Diploma in IT HQF Level 5 (British Computer Society)<br/>
-Experience in Business Development for a Software Development Company
+👨🏾‍🎓 Diploma in IT HQF Level 5 (British Computer Society)<br/>
+👜 Experience in Business Development for a Software Development Company

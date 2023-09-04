@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 - 👋 Hi, I’m malcolm mutare
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Node JS & PostgreSQL

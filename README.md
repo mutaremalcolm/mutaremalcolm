@@ -2,14 +2,14 @@
 
  👋 Hi, I’m malcolm mutare <br/>
  👀 I’m interested in Full Stack Development<br/>
- 🌱 I’m currently learning TypeScript
- 💞️ I’m looking to collaborate on any Full Stack Projects
- 📫 How to reach me mutarem@gmail.com
+ 🌱 I’m currently learning TypeScript<br/>
+ 💞️ I’m looking to collaborate on any Full Stack Projects<br/>
+ 📫 How to reach me mutarem@gmail.com<br/>
 
-A little about me:
-Self-Taught Programmer
-Based in Pretoria South Africa
-Loves Soduku & Rubik Cube Puzzles
+A little about me:<br/>
+Self-Taught Programmer<br/>
+Based in Pretoria South Africa<br/>
+Loves Soduku & Rubik Cube Puzzles<br/>
 
-Diploma in IT HQF Level 5 (British Computer Society)
+Diploma in IT HQF Level 5 (British Computer Society)<br/>
 Experience in Business Development for a Software Development Company

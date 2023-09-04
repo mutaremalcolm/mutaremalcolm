@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
- 👋 Hi, I’m malcolm mutare <br/>
+ 👋 Hi, I’m Malcolm Mutare <br/>
  👀 I’m interested in Full Stack Development<br/>
  🌱 I’m currently learning TypeScript<br/>
  💞️ I’m looking to collaborate on any Full Stack Projects<br/>

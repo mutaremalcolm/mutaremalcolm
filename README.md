@@ -1,12 +1,15 @@
 ![Header](./github-header-image.png)
 
-- 👋 Hi, I’m malcolm mutare
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Node JS & PostgreSQL
-- 💞️ I’m looking to collaborate on any Full Stack Projects
-- 📫 How to reach me mutarem@gmail.com
+ 👋 Hi, I’m malcolm mutare
+ 👀 I’m interested in Full Stack Development
+ 🌱 I’m currently learning TypeScript
+ 💞️ I’m looking to collaborate on any Full Stack Projects
+ 📫 How to reach me mutarem@gmail.com
 
-<!---
-mutaremalcolm/mutaremalcolm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A little about me:
+Self-Taught Programmer
+Based in Pretoria South Africa
+Loves Soduku & Rubik Cube Puzzles
+
+Diploma in IT HQF Level 5 (British Computer Society)
+Experience in Business Development for a Software Development Company

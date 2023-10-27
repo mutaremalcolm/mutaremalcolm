@@ -11,5 +11,5 @@ A little about me:<br/>
 🇿🇦 Based in Pretoria South Africa<br/>
 🧩 Loves Soduku, Chess & Rubik Cube Puzzles<br/>
 
-👨🏾‍🎓 Diploma in IT HQF Level 5 (British Computer Society)<br/>
+👨🏾‍🎓 Currently studying Diploma in IT HQF Level 5 (British Computer Society)<br/>
 👜 Experience in Business Development for a Software Development Company

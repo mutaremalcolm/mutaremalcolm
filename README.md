@@ -4,7 +4,7 @@
  👋 Hi, I’m Malcolm Mutare <br/>
  
  👀 I’m a Full Stack Development with 3 years of experience<br/>
- 🌱 I’m currently learning SQL<br/>
+ 🌱 I’m currently learning MongoDb<br/>
  💞️ I’m looking to collaborate on any Full Stack Projects<br/>
  📫 How to reach me mutarem@gmail.com<br/>
 

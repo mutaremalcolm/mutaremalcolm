@@ -12,7 +12,4 @@ A little about me:<br/>
 👨🏾‍💻 Self-Taught Programmer<br/>
 🇿🇦 Based in Pretoria South Africa<br/>
 🧩 Loves Soduku, Chess & Rubik Cube Puzzles<br/>
-
-👨🏾‍🎓 Currently studying Diploma in IT HQF Level 5 (British Computer Society)<br/>
-👜 Experience in Business Development for a Software Development Company with a Point of Sale
 </div>

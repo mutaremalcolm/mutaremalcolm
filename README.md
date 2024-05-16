@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <div align="center">
- 👋 Hi, I’m Malcolm Mutare <br/>
+ 👋 Hi, I’m Malcolm Mutare <br/> 
  
  👀 I’m a passionate Full Stack Developmer with 3 years of experience<br/>
  🌱 I’m currently learning Java<br/>

@@ -3,9 +3,7 @@
 <div align="center">
  👋 Hi, I’m Malcolm Mutare <br/> 
  
- 👀 I’m a passionate Full Stack Developmer with 3 years of experience<br/>
- 🌱 I’m currently learning Java<br/>
- 💞️ I’m looking to collaborate on any Full Stack Projects<br/>
+ 👀 I’m a passionate Front End Developmer with 3 years of experience<br/>
  📫 How to reach me mutarem@gmail.com<br/>
 
 A little about me:<br/>

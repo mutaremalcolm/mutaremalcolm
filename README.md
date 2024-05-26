@@ -3,7 +3,7 @@
 <div align="center">
  👋 Hi, I’m Malcolm Mutare <br/> 
  
- 👀 I’m a passionate Front End Developmer with 3 years of experience<br/>
+ 👀 I’m a passionate Front End Developer with 3 years of experience<br/>
  📫 How to reach me mutarem@gmail.com<br/>
 
 A little about me:<br/>
